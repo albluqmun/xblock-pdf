@@ -23,7 +23,7 @@ Add it to the `EDXAPP_EXTRA_REQUIREMENTS` variable.
 
 ```yml
 EDXAPP_EXTRA_REQUIREMENTS:
-  - name: 'git+https://github.com/albluqmun/xblock-pdf.git@v1.0.2-rg#egg=xblock-pdf'
+  - name: 'git+https://github.com/albluqmun/xblock-pdf.git@v1.0.3#egg=xblock-pdf'
 ```
 
 Then run your deployment playbooks.
